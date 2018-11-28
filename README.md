@@ -1,5 +1,5 @@
 # DRINC
-Duplicate reads quantification
+Duplicate reads quantification.
 
 
 Usage: python DRINK5Cluster.py <stranded info> <radius> <input sam file> <output all dups log file> <output optical dups log file> <output stats file> [filtering mode] [output sam file w/ tags]
@@ -20,5 +20,7 @@ The filtering mode is optional.
  - Enter 1 for filtering all dups.
  - Enter 2 for filtering optical dups only.
 
-
 The output sam file w/ tags field is to be specified if and only if the filtering mode is specified.
+
+
+# Written by Peng Song.
