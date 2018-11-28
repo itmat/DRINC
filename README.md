@@ -23,4 +23,4 @@ The filtering mode is optional.
 The output sam file w/ tags field is to be specified if and only if the filtering mode is specified.
 
 
-# Written by Peng Song.
+#### Written by Peng Song.
