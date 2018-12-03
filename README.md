@@ -1,5 +1,5 @@
 # DRINC
-Duplicate reads quantification.
+Duplication Rate Identifier for NGS Cleanup.
 
 
 Usage: python DRINK5Cluster.py <stranded info> <radius> <input sam file> <output all dups log file> <output optical dups log file> <output stats file> [filtering mode] [output sam file w/ tags]
